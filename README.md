@@ -21,7 +21,7 @@ Boto3 (Python SDK) installed: pip install boto3
 
 **Deployment Steps**
 **Clone the Repository**
-git clone https://github.com/yourusername/OCRMyPDF-on-ECS.git
+git clone https://github.com/Niyi1983/OCRMyPDF-on-ECS.git
 cd OCRMyPDF-on-ECS
 **Initialize and Apply Terraform**
 cd terraform
