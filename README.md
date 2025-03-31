@@ -40,11 +40,11 @@ Required IAM roles and policies
 
 **Files and Directories**
 OCRMyPDF-on-ECS/
-│── terraform/          # Terraform scripts
-│   ├── main.tf        # AWS Infrastructure setup
-│   ├── variables.tf   # Variables for customization
-│   ├── outputs.tf     # Outputs for resources
-│── scripts/           # Python automation scripts
-│   ├── trigger_ocr.py # Sends PDF processing request
-│── README.md          # Documentation
-│── .gitignore         # Ignore unnecessary files
+│── terraform/          
+│   ├── main.tf        
+│   ├── variables.tf  
+│   ├── outputs.tf     
+│── scripts/          
+│   ├── trigger_ocr.py
+│── README.md         
+│── .gitignore         
