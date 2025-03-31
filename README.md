@@ -1,4 +1,4 @@
-**OCRMyPDF on AWS ECS using Terraform
+**OCRMyPDF on AWS ECS using Terraform**
 
 **Overview**
 
